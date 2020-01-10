@@ -1,0 +1,6 @@
+# > FOX+
+USER-AGENT,FOXPLUS*
+USER-AGENT,com.foxplus.ios.foxplus*
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,theplatform.com
