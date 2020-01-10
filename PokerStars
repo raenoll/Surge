@@ -1,0 +1,6 @@
+PROCESS-NAME,*PokerStars*
+USER-AGENT,*PokerStars*
+DOMAIN-SUFFIX,pokerstars.com
+DOMAIN-SUFFIX,*pokerstars.com
+// DOMAIN-SUFFIX,updatemac.pokerstars.com
+DOMAIN-KEYWORD,pokerstars
