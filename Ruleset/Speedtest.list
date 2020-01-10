@@ -2,3 +2,4 @@
 USER-AGENT,SpeedTest*
 PROCESS-NAME,*Speedtest*
 DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,fast.com
