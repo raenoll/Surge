@@ -1,0 +1,12 @@
+// Netflix STB Proxy Check for Chromecast Devices
+// Update Reguarly
+
+
+// TW-HiNet
+IP-CIDR,203.75.84.2/32,no-resolve
+IP-CIDR,203.75.84.6/32,no-resolve
+IP-CIDR,203.75.84.8/32,no-resolve
+
+// HK-Navigator
+IP-CIDR,203.198.80.202/32,no-resolve
+IP-CIDR,203.198.13.90/32,no-resolve
