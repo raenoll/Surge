@@ -4,6 +4,7 @@
 
 // TW-HiNet
 IP-CIDR,203.75.84.2/32,no-resolve
+IP-CIDR,203.75.84.4/32,no-resolve
 IP-CIDR,203.75.84.6/32,no-resolve
 IP-CIDR,203.75.84.8/32,no-resolve
 
