@@ -2,3 +2,8 @@
 
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp
+
+# > JavDB
+DOMAIN-SUFFIX,javdb3.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-KEYWORD,javdb
