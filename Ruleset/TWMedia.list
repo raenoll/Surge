@@ -1,0 +1,13 @@
+# TW-Based Limited Media Services
+
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+
+# > CatchPlay
+USER-AGENT,CatchPlay*
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-KEYWORD,catchplay
