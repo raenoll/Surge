@@ -1,0 +1,5 @@
+# > Plex Fantasyland
+USER-AGENT,Plex*
+PROCESS-NAME,Plex*
+DOMAIN-KEYWORD,plex
+IP-CIDR,139.162.11.17/32,no-resolve
