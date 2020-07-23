@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
 
 # > CatchPlay
-USER-AGENT,CatchPlay*
-DOMAIN-SUFFIX,catchplay.com
+USER-AGENT,CATCHPLAY*
+USER-AGENT,AsiaPlay*
+# DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
+DOMAIN-SUFFIX,ols-ww000-cp.akamaized.net
 DOMAIN-KEYWORD,catchplay
