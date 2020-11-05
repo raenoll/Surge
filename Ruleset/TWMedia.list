@@ -11,7 +11,6 @@ DOMAIN,kktv-theater.kk.stream
 USER-AGENT,CATCHPLAY*
 USER-AGENT,AsiaPlay*
 # DOMAIN-SUFFIX,catchplay.com
-DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
-DOMAIN-SUFFIX,ols-ww000-cp.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-KEYWORD,catchplay
-DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,cloudfront.net
