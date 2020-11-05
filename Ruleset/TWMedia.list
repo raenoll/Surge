@@ -13,4 +13,4 @@ USER-AGENT,AsiaPlay*
 # DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-KEYWORD,catchplay
-# DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudfront.net
