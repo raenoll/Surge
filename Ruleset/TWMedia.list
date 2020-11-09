@@ -6,6 +6,7 @@ USER-AGENT,com.kktv.ios.kktv*
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
+DOMAIN,kktvtheater-kktv.cdn.hinet.net
 
 # > CatchPlay
 USER-AGENT,CATCHPLAY*
