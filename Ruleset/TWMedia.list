@@ -14,6 +14,7 @@ USER-AGENT,AsiaPlay*
 # DOMAIN-SUFFIX,catchplay.com
 DOMAIN-KEYWORD,catchplay
 # DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ols-ww000-cp.akamaized.net
 DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 # DOMAIN-SUFFIX,akamai.net
