@@ -12,10 +12,15 @@ DOMAIN,kktvtheater-kktv.cdn.hinet.net
 USER-AGENT,CATCHPLAY*
 USER-AGENT,AsiaPlay*
 # DOMAIN-SUFFIX,catchplay.com
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,akamai.net
 DOMAIN-KEYWORD,catchplay
-DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
+# DOMAIN-SUFFIX,akamai.net
+# DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,d2eib6r9tuf5y8.cloudfront.net
+DOMAIN-SUFFIX,dkfhw9rzsr80z.cloudfront.net
+DOMAIN-SUFFIX,dd73pvjtftvi1.cloudfront.net
 
 # > Bahamut
 USER-AGENT,Anime*
