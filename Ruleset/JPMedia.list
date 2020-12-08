@@ -1,9 +1,12 @@
 # JP-Based Limited Media Services
 
-# > DMM
-DOMAIN-SUFFIX,dmm.co.jp
 
 # > JavDB
 // DOMAIN-SUFFIX,javdb3.com
 // DOMAIN-SUFFIX,javdb.com
 // DOMAIN-KEYWORD,javdb
+
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DAZN.list
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DMM.list
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/niconico.list
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/AbemaTV.list
