@@ -6,7 +6,7 @@
 // DOMAIN-SUFFIX,javdb.com
 // DOMAIN-KEYWORD,javdb
 
-RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DAZN.list
-RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DMM.list
-RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/niconico.list
-RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/AbemaTV.list
+# > DAZN JP Fix
+DOMAIN-SUFFIX,dazn.co.jp
+DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,indaznlab.com
