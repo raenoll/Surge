@@ -16,7 +16,7 @@ USER-AGENT,TVer*
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,interactive-circle.jp
-DOMAIN-SUFFIX,metrics.brightcove.com
-DOMAIN-SUFFIX,players.brightcove.net
+DOMAIN-SUFFIX,mbrightcove.com
+DOMAIN-SUFFIX,brightcove.net
 DOMAIN-SUFFIX,stats.streamhub.io
-
+DOMAIN-SUFFIX,yjtag.jp
