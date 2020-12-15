@@ -14,3 +14,9 @@ DOMAIN-SUFFIX,indaznlab.com
 # > TVer
 USER-AGENT,TVer*
 DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,js-agent.newrelic.com
+DOMAIN-SUFFIX,interactive-circle.jp
+DOMAIN-SUFFIX,metrics.brightcove.com
+DOMAIN-SUFFIX,players.brightcove.net
+DOMAIN-SUFFIX,stats.streamhub.io
+
