@@ -7,9 +7,9 @@
 // DOMAIN-KEYWORD,javdb
 
 # > DAZN JP Fix
-DOMAIN-SUFFIX,dazn.co.jp
-DOMAIN-SUFFIX,indazn.com
-DOMAIN-SUFFIX,indaznlab.com
+// DOMAIN-SUFFIX,dazn.co.jp
+// DOMAIN-SUFFIX,indazn.com
+// DOMAIN-SUFFIX,indaznlab.com
 
 # > TVer
 USER-AGENT,TVer*
