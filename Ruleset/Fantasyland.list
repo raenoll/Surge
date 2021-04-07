@@ -1,5 +1,6 @@
 # > Plex Fantasyland
 USER-AGENT,Plex*
 PROCESS-NAME,Plex*
-DOMAIN-KEYWORD,plex
-IP-CIDR,139.162.11.17/32,no-resolve
+# DOMAIN-KEYWORD,plex
+DOMAIN-SUFFIX,plex.tv
+IP-CIDR,139.177.187.32/32,no-resolve
