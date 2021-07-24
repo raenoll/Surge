@@ -19,3 +19,8 @@ DOMAIN-SUFFIX,yjtag.jp
 # > MGStage
 DOMAIN-SUFFIX,mgstage.com
 
+# > NHK
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,feedpublisher-nhk-tokyo2020.akamaized.net
+DOMAIN-SUFFIX,live-d-main-tokyo2020-nhk.akamaized.net
+
