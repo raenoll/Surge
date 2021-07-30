@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,idc.wiki
 # > App
 
 PROCESS-NAME,Termius*
+USER-AGENT,Termius*
 USER-AGENT,Tap%20&%20Go*
 USER-AGENT,Gyroscope*
 PROCESS-NAME,Spotify*
