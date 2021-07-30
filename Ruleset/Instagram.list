@@ -1,0 +1,6 @@
+# > Instagram
+
+USER-AGENT,Instagram*
+PROCESS-NAME,Grids*
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
