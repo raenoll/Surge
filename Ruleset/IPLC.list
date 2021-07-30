@@ -1,0 +1,11 @@
+# > Site
+
+DOMAIN-SUFFIX,idc.wiki
+
+# > App
+
+PROCESS-NAME,Termius*
+USER-AGENT,Tap%20&%20Go*
+USER-AGENT,Gyroscope*
+PROCESS-NAME,Spotify*
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Spotify.list
