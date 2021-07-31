@@ -8,16 +8,6 @@ PROCESS-NAME,Termius*
 USER-AGENT,Termius*
 USER-AGENT,Tap%20&%20Go*
 USER-AGENT,Gyroscope*
-
-# RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Spotify.list
-# > Spotify
-USER-AGENT,Spotify*
 PROCESS-NAME,Spotify*
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
-
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Spotify.list
 USER-AGENT,TVShow*
