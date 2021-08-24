@@ -3,4 +3,5 @@ USER-AGENT,Plex*
 PROCESS-NAME,Plex*
 # DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
 IP-CIDR,139.177.187.32/32,no-resolve
