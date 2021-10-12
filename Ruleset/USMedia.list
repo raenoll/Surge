@@ -9,10 +9,10 @@ USER-AGENT,IMDB*
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,imdb.com
 // DOMAIN-SUFFIX,imdbws.com
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,akamaihd.net
+# DOMAIN-SUFFIX,aiv-delivery.net
+# DOMAIN-SUFFIX,amazonaws.com
+# DOMAIN-SUFFIX,amazonvideo.com
+# DOMAIN-SUFFIX,akamaihd.net
 
 # > Tubi
 USER-AGENT,Tubi*
