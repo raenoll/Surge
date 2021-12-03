@@ -8,7 +8,7 @@ PROCESS-NAME,Termius*
 USER-AGENT,Termius*
 USER-AGENT,Tap%20&%20Go*
 USER-AGENT,Gyroscope*
-PROCESS-NAME,Spotify*
-USER-AGENT,Spotify*
+# PROCESS-NAME,Spotify*
+# USER-AGENT,Spotify*
 # RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Spotify.list
 USER-AGENT,TVShow*
