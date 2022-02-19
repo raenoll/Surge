@@ -1,0 +1,8 @@
+#!name=Musixmatch
+#!desc=Musixmatch
+
+[MITM]
+hostname = %APPEND% apic.musixmatch.com
+
+[Script]
+Musixmatch = type=http-response,pattern=^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Quantumult-X-LK/master/Scripts/langkhach/musixmatch.js
