@@ -39,6 +39,8 @@ IP-CIDR,104.16.181.30/32,no-resolve
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,video.friday.tw
 DOMAIN-SUFFIX,svc.litv.tv
+DOMAIN-SUFFIX,aka03p.akamaized.net
+DOMAIN-SUFFIX,aka11p.akamaized.net
 
 # > myVideo
 USER-AGENT,myVideo*
