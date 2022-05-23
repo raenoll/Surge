@@ -1,10 +1,10 @@
 # US-Based Limited Media Services
 
 # > encoreTVB
-USER-AGENT,encoreTVB*,encoreTVB
-DOMAIN-SUFFIX,encoretvb.com,encoreTVB
-DOMAIN,edge.api.brightcove.com,encoreTVB
-DOMAIN,bcbolt446c5271-a.akamaihd.net,encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
 
 # > Pluto
 USER-AGENT,PLUTO*
@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,pluto.tv
 
 # > IMDB
 USER-AGENT,IMDB*
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,imdb.com
-// DOMAIN-SUFFIX,imdbws.com
+# DOMAIN-SUFFIX,amazon.com
+# DOMAIN-SUFFIX,imdb.com
+# DOMAIN-SUFFIX,imdbws.com
 # DOMAIN-SUFFIX,aiv-delivery.net
 # DOMAIN-SUFFIX,amazonaws.com
 # DOMAIN-SUFFIX,amazonvideo.com
