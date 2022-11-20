@@ -58,3 +58,11 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 USER-AGENT,LINE%20TV*
 PROCESS-NAME,com.linecorp.linetv
+
+# > Hami Video
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN,hls-hichannel.cdn.hinet.net
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+
+
