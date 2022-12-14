@@ -65,4 +65,7 @@ DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN,hls-hichannel.cdn.hinet.net
 DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
 
+# > Kakao Webtoon
+DOMAIN-SUFFIX,tw.kakaowebtoon.com
+DOMAIN-SUFFIX,tw-a.kakaopagecdn.com
 
