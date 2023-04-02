@@ -1,10 +1,14 @@
 # US-Based Limited Media Services
 
-# > encoreTVB
-USER-AGENT,encoreTVB*
-DOMAIN-SUFFIX,encoretvb.com
+# > tvbanywherena
+USER-AGENT,tvbanywherena*
+DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN,players.brightcove.net.com
+DOMAIN,metrics.brightcove.com
 DOMAIN,edge.api.brightcove.com
+DOMAIN,bcovlive-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,cf-images.us-east-1.prod.boltdns.net
 
 # > Pluto
 USER-AGENT,PLUTO*
