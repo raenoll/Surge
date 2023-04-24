@@ -3,18 +3,11 @@
 # > TVer
 USER-AGENT,TVer*
 DOMAIN-SUFFIX,tver.jp
-# DOMAIN-SUFFIX,js-agent.newrelic.com
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,interactive-circle.jp
-# DOMAIN-SUFFIX,mbrightcove.com
+DOMAIN-SUFFIX,mbrightcove.com
 # DOMAIN-SUFFIX,brightcove.net
-# DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,metrics.brightcove.com
 DOMAIN-SUFFIX,stats.streamhub.io
 DOMAIN-SUFFIX,yjtag.jp
-
-# > NHK
-DOMAIN-SUFFIX,nhk.or.jp
-DOMAIN-SUFFIX,feedpublisher-nhk-tokyo2020.akamaized.net
-DOMAIN-SUFFIX,live-d-main-tokyo2020-nhk.akamaized.net
-
-DOMAIN-SUFFIX,ntv.co.jp
-
