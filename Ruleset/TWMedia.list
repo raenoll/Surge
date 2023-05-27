@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,video.friday.tw
 DOMAIN-SUFFIX,svc.litv.tv
 DOMAIN-SUFFIX,aka03p.akamaized.net
 DOMAIN-SUFFIX,aka11p.akamaized.net
+DOMAIN-SUFFIX,aka01p.akamaized.net
+DOMAIN-SUFFIX,aka27p.akamaized.net
+
 
 # > myVideo
 USER-AGENT,myVideo*
