@@ -11,3 +11,9 @@ DOMAIN-SUFFIX,edge.api.brightcove.com
 DOMAIN-SUFFIX,metrics.brightcove.com
 DOMAIN-SUFFIX,stats.streamhub.io
 DOMAIN-SUFFIX,yjtag.jp
+
+# > U-Next
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,o217707.ingest.sentry.io
+
