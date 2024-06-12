@@ -3,18 +3,32 @@
 # > TVer
 USER-AGENT,TVer*
 DOMAIN-SUFFIX,tver.jp
-DOMAIN-SUFFIX,mobile-collector.newrelic.com
-DOMAIN-SUFFIX,interactive-circle.jp
-DOMAIN-SUFFIX,mbrightcove.com
-# DOMAIN-SUFFIX,brightcove.net
 DOMAIN-SUFFIX,edge.api.brightcove.com
-DOMAIN-SUFFIX,metrics.brightcove.com
-DOMAIN-SUFFIX,stats.streamhub.io
-DOMAIN-SUFFIX,yjtag.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,dogatch.jp
 
 # > U-Next
 DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,nxtv.jp
-DOMAIN-SUFFIX,o217707.ingest.sentry.io
-DOMAIN-SUFFIX,d2q9foufre5jfx.cloudfront.net
-DOMAIN-SUFFIX,dvkwf8p2fon0q.cloudfront.net
+
+# > Abema
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,bucketeer.jp
+DOMAIN-SUFFIX,abema.adx.promo
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,abema-tv.com
+
+# > NicoNico
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
