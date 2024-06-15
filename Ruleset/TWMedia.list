@@ -40,10 +40,32 @@ IP-CIDR,104.16.181.30/32,no-resolve
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,video.friday.tw
 DOMAIN-SUFFIX,svc.litv.tv
-DOMAIN-SUFFIX,aka11p.akamaized.net
 DOMAIN-SUFFIX,aka01p.akamaized.net
 DOMAIN-SUFFIX,aka02p.akamaized.net
 DOMAIN-SUFFIX,aka03p.akamaized.net
+DOMAIN-SUFFIX,aka04p.akamaized.net
+DOMAIN-SUFFIX,aka05p.akamaized.net
+DOMAIN-SUFFIX,aka06p.akamaized.net
+DOMAIN-SUFFIX,aka07p.akamaized.net
+DOMAIN-SUFFIX,aka08p.akamaized.net
+DOMAIN-SUFFIX,aka09p.akamaized.net
+DOMAIN-SUFFIX,aka10p.akamaized.net
+DOMAIN-SUFFIX,aka11p.akamaized.net
+DOMAIN-SUFFIX,aka12p.akamaized.net
+DOMAIN-SUFFIX,aka13p.akamaized.net
+DOMAIN-SUFFIX,aka14p.akamaized.net
+DOMAIN-SUFFIX,aka15p.akamaized.net
+DOMAIN-SUFFIX,aka16p.akamaized.net
+DOMAIN-SUFFIX,aka17p.akamaized.net
+DOMAIN-SUFFIX,aka18p.akamaized.net
+DOMAIN-SUFFIX,aka19p.akamaized.net
+DOMAIN-SUFFIX,aka20p.akamaized.net
+DOMAIN-SUFFIX,aka21p.akamaized.net
+DOMAIN-SUFFIX,aka22p.akamaized.net
+DOMAIN-SUFFIX,aka23p.akamaized.net
+DOMAIN-SUFFIX,aka24p.akamaized.net
+DOMAIN-SUFFIX,aka25p.akamaized.net
+DOMAIN-SUFFIX,aka26p.akamaized.net
 DOMAIN-SUFFIX,aka27p.akamaized.net
 
 
