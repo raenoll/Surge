@@ -39,3 +39,13 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,maxgo.com
+
+# > perplexity
+USER-AGENT,perplexity*
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
+
+# > Google Gemini
+USER-AGENT,Gemini*
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
