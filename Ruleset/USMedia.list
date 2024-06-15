@@ -1,16 +1,17 @@
 # US-Based Limited Media Services
 
-# > tvbanywherena
-# USER-AGENT,tvbanywherena*
-# DOMAIN-SUFFIX,tvbanywherena.com
-# DOMAIN,players.brightcove.net.com
-# DOMAIN,metrics.brightcove.com
-# DOMAIN,edge.api.brightcove.com
-# DOMAIN,bcovlive-a.akamaihd.net
-# DOMAIN,bcbolt446c5271-a.akamaihd.net
-# DOMAIN,cf-images.us-east-1.prod.boltdns.net
+# > TVBAnywhere+
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
 
-# > Pluto
+# > Pluto TV
 USER-AGENT,PLUTO*
 DOMAIN-SUFFIX,pluto.tv
 
@@ -24,8 +25,9 @@ USER-AGENT,IMDB*
 # DOMAIN-SUFFIX,amazonvideo.com
 # DOMAIN-SUFFIX,akamaihd.net
 
-# > Tubi
+# > Tubi TV
 USER-AGENT,Tubi*
+DOMAIN-SUFFIX,tubitv.com
 
 # > Viki
 USER-AGENT,Viki*
@@ -35,3 +37,12 @@ DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
 DOMAIN-SUFFIX,54ldtktjsc6fk3fhafcel9c2b.litix.io
 DOMAIN-SUFFIX,vikidash.akamaized.net
 
+# > HBO / Max
+USER-AGENT,HBO*
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,maxgo.com
