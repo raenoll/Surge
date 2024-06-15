@@ -1,5 +1,9 @@
 # US-Based Limited Media Services
 
+# > TVBAnywhere NA
+DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN-SUFFIX,edge.api.brightcove.com
+
 # > Pluto TV
 USER-AGENT,PLUTO*
 DOMAIN-SUFFIX,pluto.tv
