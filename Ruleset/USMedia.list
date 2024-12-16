@@ -48,4 +48,10 @@ DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
 # > Google Gemini
 USER-AGENT,Gemini*
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+
+
