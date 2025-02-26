@@ -67,7 +67,9 @@ DOMAIN-SUFFIX,aka24p.akamaized.net
 DOMAIN-SUFFIX,aka25p.akamaized.net
 DOMAIN-SUFFIX,aka26p.akamaized.net
 DOMAIN-SUFFIX,aka27p.akamaized.net
-
+DOMAIN-SUFFIX,aka28p.akamaized.net
+DOMAIN-SUFFIX,aka29p.akamaized.net
+DOMAIN-SUFFIX,aka30p.akamaized.net
 
 # > myVideo
 USER-AGENT,myVideo*
@@ -92,10 +94,6 @@ DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN,hls-hichannel.cdn.hinet.net
 DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
 
-# > Kakao Webtoon TW
-DOMAIN-SUFFIX,tw.kakaowebtoon.com
-DOMAIN-SUFFIX,ko.kakaowebtoon.com
-DOMAIN-SUFFIX,tw-a.kakaopagecdn.com
 
 
 
