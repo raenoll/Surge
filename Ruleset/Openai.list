@@ -26,6 +26,10 @@ DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+
+# > Anthropic
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+PROCESS-NAME,Claude
+DOMAIN-SUFFIX,skilljar.com
