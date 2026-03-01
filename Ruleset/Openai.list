@@ -31,5 +31,5 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-PROCESS-NAME,Claude
+PROCESS-NAME,*Claude*
 DOMAIN-SUFFIX,skilljar.com
