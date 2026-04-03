@@ -70,6 +70,9 @@ DOMAIN-SUFFIX,aka27p.akamaized.net
 DOMAIN-SUFFIX,aka28p.akamaized.net
 DOMAIN-SUFFIX,aka29p.akamaized.net
 DOMAIN-SUFFIX,aka30p.akamaized.net
+DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN-SUFFIX,fridayvideo.api.useinsider.com
+DOMAIN-SUFFIX,v.clarity.ms
 
 # > myVideo
 USER-AGENT,myVideo*
