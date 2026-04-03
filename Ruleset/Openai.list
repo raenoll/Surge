@@ -12,11 +12,11 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
 
 # > Google AI
-USER-AGENT,*Gemini*
+# USER-AGENT,*Gemini*
 PROCESS-NAME,language_server_macos_arm
 PROCESS-NAME,Antigravity*
 PROCESS-NAME,Electron
-DOMAIN-SUFFIX,gemini.google.com
+# DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,waa-pa.clients6.google.com
+# DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
