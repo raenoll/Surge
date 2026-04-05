@@ -10,14 +10,14 @@ DOMAIN-SUFFIX,nflxvideo.net
 
 # > Disney+
 USER-AGENT,Disney*
-DOMAIN-SUFFIX,disney.connections.edge.bamgrid.com
-DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
+DOMAIN-SUFFIX,conviva.com
 
 # > DAZN
 USER-AGENT,DAZN*
