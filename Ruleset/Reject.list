@@ -1,3 +1,8 @@
 # --- QoE 视频质量监控 ---
 
 DOMAIN-SUFFIX,conviva.com
+
+# --- Microsoft Clarity ---
+
+DOMAIN-SUFFIX,clarity.ms
+

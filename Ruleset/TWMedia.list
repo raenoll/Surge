@@ -21,7 +21,9 @@ DOMAIN-SUFFIX,asiaplay-origin.s3.amazonaws.com
 
 # > friDay
 USER-AGENT,friDay*
-DOMAIN-SUFFIX,video.friday.tw
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-KEYWORD,fetvod
 DOMAIN-SUFFIX,svc.litv.tv
 DOMAIN-SUFFIX,aka01p.akamaized.net
 DOMAIN-SUFFIX,aka02p.akamaized.net
@@ -55,5 +57,4 @@ DOMAIN-SUFFIX,aka29p.akamaized.net
 DOMAIN-SUFFIX,aka30p.akamaized.net
 DOMAIN-SUFFIX,fridaylogger.com
 DOMAIN-SUFFIX,fridayvideo.api.useinsider.com
-DOMAIN-SUFFIX,clarity.ms
 
