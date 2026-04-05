@@ -2,11 +2,7 @@
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,nflx
 
 # > Disney+
 USER-AGENT,Disney*
@@ -32,24 +28,22 @@ DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
-DOMAIN-SUFFIX,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN-SUFFIX,d22qjgkvxw22r6.cloudfront.net
-DOMAIN-SUFFIX,d25xi40x97liuc.cloudfront.net
-DOMAIN-SUFFIX,d27xxe7juh1us6.cloudfront.net
-DOMAIN-SUFFIX,dmqdd6hw24ucf.cloudfront.net
+DOMAIN-KEYWORD,primevideo
+DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,atv-ps-eu.amazon.co.uk
-DOMAIN-SUFFIX,atv-ps-fe.amazon.co.jp
-DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pv-cdn.net
-DOMAIN-SUFFIX,video.a2z.com
-DOMAIN-SUFFIX,prime-video.amazon.dev
 DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
-DOMAIN-SUFFIX,akamaihd.net
-DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN,atv-ps.amazon.com
+DOMAIN,fls-na.amazon.com
+DOMAIN,fls-eu.amazon.com
+DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN-KEYWORD,avoddashs
+USER-AGENT,PrimeVideo*
+
