@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
-DOMAIN-SUFFIX,conviva.com,REJECT
 
 # > DAZN
 USER-AGENT,DAZN*
