@@ -46,3 +46,8 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN-KEYWORD,avoddashs
 USER-AGENT,PrimeVideo*
 
+# > TVer
+DOMAIN-KEYWORD,tver
+DOMAIN-SUFFIX,interactive-circle.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,bam.nr-data.net
