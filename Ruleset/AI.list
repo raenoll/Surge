@@ -31,8 +31,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 
 # > Anthropic
-PROCESS-NAME,Claude*
-PROCESS-NAME,claude*
+PROCESS-NAME,*Claude*
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
