@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
 # > perplexity
-USER-AGENT,perplexity*
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
+# USER-AGENT,perplexity*
+# DOMAIN-SUFFIX,perplexity.ai
+# DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
 
 # > Google AI
 USER-AGENT,*Gemini*
