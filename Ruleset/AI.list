@@ -12,10 +12,10 @@ DOMAIN-SUFFIX,oaiusercontent.com
 
 # > Google AI
 USER-AGENT,*Gemini*
-PROCESS-NAME,language_server_macos_arm
+PROCESS-NAME,language_server*
 PROCESS-NAME,Antigravity*
-PROCESS-NAME,Electron
-PROCESS-NAME,Gemini
+PROCESS-NAME,Electron*
+PROCESS-NAME,Gemini*
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
