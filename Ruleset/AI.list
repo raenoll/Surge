@@ -52,6 +52,12 @@ DOMAIN-KEYWORD,sift
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,cdn.usefathom.com
+
+DOMAIN,t0.gstatic.com
+DOMAIN,t1.gstatic.com
+DOMAIN,t2.gstatic.com
+DOMAIN,t3.gstatic.com
+
 IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR6,2607:6bc0::/32,no-resolve
 IP-ASN,399358,no-resolve
