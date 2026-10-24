@@ -5,11 +5,6 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
-# > perplexity
-# USER-AGENT,perplexity*
-# DOMAIN-SUFFIX,perplexity.ai
-# DOMAIN-SUFFIX,o4504136533147648.ingest.sentry.io
-
 # > Google AI
 USER-AGENT,*Gemini*
 PROCESS-NAME,language_server*
@@ -53,6 +48,8 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,cdn.usefathom.com
 
+DOMAIN,fcmtoken.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 DOMAIN,t0.gstatic.com
 DOMAIN,t1.gstatic.com
 DOMAIN,t2.gstatic.com
