@@ -11,6 +11,7 @@ PROCESS-NAME,language_server*
 PROCESS-NAME,Antigravity*
 PROCESS-NAME,Electron*
 PROCESS-NAME,Gemini*
+PROCESS-NAME,agy*
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,googleapis.com
